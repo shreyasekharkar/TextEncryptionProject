@@ -18,3 +18,5 @@ Install required library:
 
 ```bash
 python text_encryption.py
+
+Auther name  Shreyas Ekharkar..!

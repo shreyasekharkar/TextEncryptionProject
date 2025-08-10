@@ -16,10 +16,4 @@ Install required library:
 
 ## ▶️ How to Run
 
-```bash
-python text_encryption.py
 
-Auther name  Shreyas Ekharkar..!
-<cd>..
-
-key encrypt
